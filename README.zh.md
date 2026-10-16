@@ -1,6 +1,6 @@
 # ARTEx
 
-English · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md)
+[한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md) · 简体中文
 
 **ARTEx** 是一个可本地部署的安全评估平台，由 Go 服务和 Next.js Web 界面组成。本仓库是为在 GitHub 发布而整理的源代码快照。
 

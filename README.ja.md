@@ -1,6 +1,6 @@
 # ARTEx
 
-English · [한국어](README.ko.md) · [日本語](README.ja.md) · [简体中文](README.zh.md)
+[한국어](README.md) · [English](README.en.md) · 日本語 · [简体中文](README.zh.md)
 
 **ARTEx** は、Go サービスと Next.js の Web インターフェースで構成されるローカル展開型のセキュリティ評価プラットフォームです。このリポジトリは GitHub での公開に向けて整理したソーススナップショットです。
 
