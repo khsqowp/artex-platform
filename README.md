@@ -40,7 +40,7 @@ Compose 파일은 기본적으로 게시된 ARTEx 컨테이너 이미지를 사�
 
 ## Claude Desktop 연동
 
-Claude Desktop 커넥터와 에이전트 프로필은 별도의 Claude 연동 저장소에서 관리합니다. 이들은 운영자가 설정한 ARTEx 인스턴스에 연결하며, 플러그인을 설치해도 ARTEx 서버가 설치되거나 시작되지는 않습니다. 각 저장소의 안내에 따라 구성하세요.
+Claude Desktop 연동 저장소에는 로컬 MCP 도구를 한 번에 설치하는 `.mcpb` 데스크톱 확장과 역할·스킬 Cowork 플러그인이 별도로 제공됩니다. 확장은 ARTEx 주소와 계정 설정을 받아 이 서버에 연결하지만, ARTEx 서버를 설치하거나 시작하지는 않습니다. [ARTEx Claude 연동](https://github.com/khsqowp/artex-integration) 안내를 따르세요.
 
 ## 출처 및 라이선스
 

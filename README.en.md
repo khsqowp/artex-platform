@@ -40,7 +40,7 @@ The source includes Go and web-client projects. See `go.mod`, the `web/` package
 
 ## Claude Desktop integration
 
-Claude Desktop connectors and agent profiles are maintained separately in the Claude integration repository. They connect to an operator-configured ARTEx instance; installing the plugin does not install or start this server. Configure both projects using their respective setup instructions.
+The Claude integration repository provides a `.mcpb` Desktop Extension for installing the local MCP tools together, and a separate Cowork plugin for role profiles and skills. The extension connects to this server using the configured ARTEx URL and account; it does not install or start the ARTEx server. See the [ARTEx Claude integration](https://github.com/khsqowp/artex-integration) instructions.
 
 ## Provenance and license
 

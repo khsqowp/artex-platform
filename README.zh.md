@@ -40,7 +40,7 @@ Compose 文件默认使用已发布的 ARTEx 容器镜像。如需自行构建�
 
 ## Claude Desktop 集成
 
-Claude Desktop 连接器和代理配置文件在独立的 Claude 集成仓库中维护。它们连接到由操作者配置的 ARTEx 实例；安装插件不会安装或启动 ARTEx 服务。请分别按照两个仓库的说明进行配置。
+Claude 集成仓库分别提供用于一次性安装本地 MCP 工具的 `.mcpb` 桌面扩展，以及包含角色配置和技能的 Cowork 插件。扩展使用配置的 ARTEx 地址和账户连接到本服务，但不会安装或启动 ARTEx 服务。请参阅 [ARTEx Claude 集成](https://github.com/khsqowp/artex-integration) 中的说明。
 
 ## 来源与许可证
 
