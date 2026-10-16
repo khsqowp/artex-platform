@@ -1,0 +1,3 @@
+services:
+  artex:
+    image: artex:source-f3e3f54-cowork-0.3.24

@@ -1,0 +1,32 @@
+# backend
+/data/
+*.db
+*.db-wal
+*.db-shm
+config.json
+scheduler_state.json
+__pycache__/
+*.py[cod]
+*.log
+*.tmp
+.env
+jwt.key
+
+# frontend
+web/node_modules/
+web/.next/
+web/tsconfig.tsbuildinfo
+web/next-env.d.ts
+*.local
+
+# generated distributions and caches
+/.go-cache/
+/.go-tmp/
+/dist/
+/server/webui/dist/
+/artex
+/artex.new
+/artex.new.sha256
+/artex.old
+/artex.failed
+/artex.upgrade.json
